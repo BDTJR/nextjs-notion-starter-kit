@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '会思考的苇草',
+  name: '会思考的芦苇',
   domain: 'https://bejewled-verse-d28.notion.site/Getting-Started-3788562b424c44b2a163e484d84b3ce0',
   author: 'tajiro',
 
