@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '30dc5e473ee145ae810f3a88f6dca89a',
+  rootNotionPageId: 'c15708aeafce44739dd6d9d961a9145e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '会思考的芦苇',
-  domain: 'https://bejewled-verse-d28.notion.site/f6d9352de5e84b65842f9ba118e789d0?v=30dc5e473ee145ae810f3a88f6dca89a',
+  domain: 'https://bejewled-verse-d28.notion.site/Reading-List-c15708aeafce44739dd6d9d961a9145e',
   author: 'tajiro',
 
   // open graph metadata (optional)
